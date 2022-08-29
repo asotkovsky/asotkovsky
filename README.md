@@ -21,7 +21,7 @@ Built a full-stack application to facilitate the repair of potholes with anonymo
 
 <div>
 <a href="https://github.com/asotkovsky/fixmyroad">
-<img src="https://github.com/asotkovsky/asotkovsky/blob/main/fixmyroad-demo.gif" width="500"/></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asotkovsky&layout=compact" /></div>
+<img src="https://github.com/asotkovsky/asotkovsky/blob/main/fixmyroad-demo.gif" width="400"/></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asotkovsky&layout=compact" /></div>
 
 
 
