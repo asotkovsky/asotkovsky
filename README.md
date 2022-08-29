@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Alex
+#### Lifelong learner - Product Manager turned Software Developer - UX Enthusiast
+I'm a fledging Software Developer with hands-on experience transforming an MVP into a multi-million dollar business as a Product Manager.
 
-<!--
-**asotkovsky/asotkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate advocate for workflow automation and leveraging research & scientific design principles to create powerful user
+experiences. 
 
-Here are some ideas to get you started:
+Skills: Agile Development / Spring Boot / Java | PostgreSQL | HTML | CSS | JavaScript / Vue.js / Responsive Design / IntelliJ / Git / Unit Testing (JUnit) / E/R diagrams / Integration Testing / Unix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my technical writing skills 
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me: alexsotkovsky@live.com  
+- 😄 Pronouns: she/her 
+
+
+
+
