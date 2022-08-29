@@ -12,6 +12,9 @@ Skills: Agile Development / Spring Boot / Java | PostgreSQL | HTML | CSS | JavaS
 - 📫 How to reach me: alexsotkovsky@live.com  
 - 😄 Pronouns: she/her 
 
+Latest Project: FixMyRoad
+<img src="" width="256" /> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asotkovsky)](https://github.com/anuraghazra/github-readme-stats)
 
 
