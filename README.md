@@ -8,7 +8,7 @@ experiences.
 
 <h3>Skills:</h3>
 
-Agile Development / Spring Boot / Java | PostgreSQL | HTML | CSS | JavaScript / Vue.js / Responsive Design / IntelliJ / Git / Unit Testing (JUnit) / E/R diagrams / Integration Testing / Unix
+Agile Development / Spring Boot / Java / PostgreSQL / HTML / CSS / JavaScript / Vue.js / Responsive Design / IntelliJ / Git / Unit Testing (JUnit) / E/R diagrams / Integration Testing / Unix
 
 
 - 🔭 I’m currently working on my technical writing skills and learning python
