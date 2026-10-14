@@ -11,16 +11,17 @@ experiences.
 Agile Development / Spring Boot / Java / PostgreSQL / HTML / CSS / JavaScript / Vue.js / Responsive Design / IntelliJ / Git / Unit Testing (JUnit) / E/R diagrams / Integration Testing / Unix
 
 
-- 🔭 I’m currently working on my technical writing skills and learning python
+- 🔭 I’m currently working on exploring 
 - 📫 How to reach me: alexsotkovsky@live.com  
 - 😄 Pronouns: she/her 
 
-<h2>Latest Project: FixMyRoad</h2>
+<h2>Latest Project: I Do Crew</h2>
 
-Built a full-stack application to facilitate the repair of potholes with anonymous, authenticated user and admin roles. Notable features include Google Maps and Places integration, status update email subscriptions, photo upload functionality, dynamic filtering, repair scheduling and employee assignment functionality. Utilized Vue.js for the front end and Java on the back end. Built a relational database using PostgreSQL and APIs in accordance with the REST architectural style. (Click the gif below to read more ... )
+This year I was invited to be the maid of honor in my good friends wedding and got engaged myself a few weeks later! As I dove into the logistics I realized how helpful a custom planning tool would be. So I had some fun building a fully featured web based application with an integrated AI assistant using Next.js/Typescript/React. I used Drizzle ORM to interface with the postgres DB and the Vercel AI SDK. It was a lot of fun to try some different technolgies and is coming in handy!
+<img width="1872" height="936" alt="image" src="https://github.com/user-attachments/assets/2b813490-5191-48f5-a63a-ec735439859b" />
 
 <div>
-<a href="https://github.com/asotkovsky/fixmyroad">
+
 <img src="https://github.com/asotkovsky/asotkovsky/blob/main/fixmyroad-demo.gif" width="400"/>
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asotkovsky&layout=compact" /></div>
 
