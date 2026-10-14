@@ -18,6 +18,9 @@ Agile Development / Spring Boot / Java / PostgreSQL / HTML / CSS / JavaScript / 
 <h2>Latest Project: I Do Crew</h2>
 
 This year I was invited to be the maid of honor in my good friends wedding and got engaged myself a few weeks later! As I dove into the logistics I realized how helpful a custom planning tool would be. So I had some fun building a fully featured web based application with an integrated AI assistant using Next.js/Typescript/React. I used Drizzle ORM to interface with the postgres DB and the Vercel AI SDK. It was a lot of fun to try some different technolgies and is coming in handy!
+
+Link: https://wedding-planner-opal-psi.vercel.app/
+
 <img width="1872" height="936" alt="image" src="https://github.com/user-attachments/assets/2b813490-5191-48f5-a63a-ec735439859b" />
 
 <div>
