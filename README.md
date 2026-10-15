@@ -1,7 +1,7 @@
 <h2>Hi there 👋, my name is Alex</h2>
 <h3>Lifelong learner - Product Manager turned Software Developer - UX Enthusiast</h3>
 
-I'm a fledging Software Developer with hands-on experience transforming an MVP into a multi-million dollar business as a Product Manager.
+I'm a software developer with hands-on experience transforming an MVP into a multi-million dollar business as a Product Manager.
 
 Passionate advocate for workflow automation and leveraging research & scientific design principles to create powerful user
 experiences. 
@@ -11,7 +11,6 @@ experiences.
 Agile Development / Spring Boot / Java / PostgreSQL / HTML / CSS / JavaScript / Vue.js / Responsive Design / IntelliJ / Git / Unit Testing (JUnit) / E/R diagrams / Integration Testing / Unix
 
 
-- 🔭 I’m currently working on exploring 
 - 📫 How to reach me: alexsotkovsky@live.com  
 - 😄 Pronouns: she/her 
 
